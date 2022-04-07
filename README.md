@@ -1,4 +1,17 @@
-### Hi there 👋
+Hello there (whispering "General Kenobi" to myself!)
+
+This is Salman.
+
+I'm currently working on Hadoop and Deep Learning, and am looking to Collaborate on any projects leveraging these (or anything else too, always curious!).
+
+Skills:
+
+- Profecient: Python, SQL
+- Good: C++, MATLAB
+- Basic: R, Java, HTML/CSS
+
+Tools: Hadoop, Spark, TensorFlow, Scikit-learn
+Techniques: Machine Learning, NLP
 
 <!--
 **pathankhansalman/pathankhansalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
