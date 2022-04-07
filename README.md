@@ -6,7 +6,7 @@ I'm currently working on Hadoop and Deep Learning, and am looking to Collaborate
 
 Skills:
 
-- Profecient: Python, SQL
+- Proficient: Python, SQL
 - Good: C++, MATLAB
 - Basic: R, Java, HTML/CSS
 
