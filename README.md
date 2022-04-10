@@ -10,7 +10,7 @@ Skills:
 - Good: C++, MATLAB
 - Basic: R, Java, HTML/CSS
 
-Tools: Hadoop, Spark, TensorFlow, Scikit-learn
+Tools: Hadoop, Spark, TensorFlow, Scikit-learn, MLlib, MongoDB
 Techniques: Machine Learning, NLP
 
 <!--
